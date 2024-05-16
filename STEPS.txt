@@ -1,0 +1,9 @@
+Steps requiring to setup environment
+
+1) create a github repo
+2) create a folder in your pc
+3) open anaconda command prompt
+4) cd `path of folder`
+5) code .	--> this will automatically open the vs code
+6) open new terminal
+7) conda create -p venv python==3.8 -y
