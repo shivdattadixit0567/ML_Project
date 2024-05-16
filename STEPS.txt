@@ -7,3 +7,20 @@ Steps requiring to setup environment
 5) code .	--> this will automatically open the vs code
 6) open new terminal
 7) conda create -p venv python==3.8 -y
+8) git init
+9) git status
+10) git add README.md
+11) git steps.txt
+12) git commit -m ""
+13) git branch -M main
+14) git remote add origin https://github.com/shivdattadixit0567/ML_Project.git
+15) git remote -v
+16) git push -u origin main
+17) create .gitignore from github use python
+18) commit changes
+19) git pull
+20) create src folder and a file __init__.py
+21) create setup.py
+22) create requirements.txt
+23) connect setup.py and requirements.txt to install packages
+
